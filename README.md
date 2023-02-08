@@ -15,7 +15,3 @@ git push -u origin main
 git remote add origin https://github.com/z-gahu/movie_app_2023.git
 git branch -M main
 git push -u origin main
-
-git remote add origin github.com/z-gahu/movie_app_2023.git
-git add .\README.md
-git commit -m "first commit"
