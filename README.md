@@ -15,3 +15,6 @@ git push -u origin main
 git remote add origin https://github.com/z-gahu/movie_app_2023.git
 git branch -M main
 git push -u origin main
+
+2023-02-11
+https://ko.javascript.info/class#ref-739
