@@ -18,3 +18,9 @@ git push -u origin main
 
 2023-02-11
 https://ko.javascript.info/class#ref-739
+
+2023-02-13
+https://yts.mx/api
+https://yts.mx/api/v2/list_movies.json
+
+https://yts.mx/api/v2/movie_details.json?movie_id=10
