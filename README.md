@@ -24,3 +24,6 @@ https://yts.mx/api
 https://yts.mx/api/v2/list_movies.json
 
 https://yts.mx/api/v2/movie_details.json?movie_id=10
+
+2023-02-17
+npm install react-router-dom
